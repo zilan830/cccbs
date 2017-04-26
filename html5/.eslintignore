@@ -1,0 +1,5 @@
+tests/
+utils/
+public/
+scripts/
+webpack.config.*
